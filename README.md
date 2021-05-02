@@ -11,3 +11,8 @@
 - 📫 How to reach me: Mail at salmanisuleman804@gmail.com
 - 😄 Pronouns: Don't Have any but you can give me that.
 - ⚡ Fun fact: Being a programmer I can think and code without Coffee.
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=hemachandirant&show_icons=true)  
+
+![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=hemachandirant)  
+
+![Profile views](https://gpvc.arturio.dev/hemachandirant)  
