@@ -1,7 +1,7 @@
 ### Hi there 👋
 [![](https://github.com/arpit-dwivedi/arpit-dwivedi.github.io/raw/master/assets/img/Webp.net-resizeimage.png)](https://www.linkedin.com/in/suleman-s-876903151/)
 <a href="https://www.kaggle.com/sulemansalmani"><img src="https://github.com/arpit-dwivedi/arpit-dwivedi/raw/master/kaggle.png" height="30" width="30" ></a>
-<a href="https://www.hackerrank.com/suleman804"><img src="https://upload.wikimedia.org/wikipedia/commons/6/65/HackerRank_logo.png" height="40" width="40" ></a>
+<a href="https://www.hackerrank.com/suleman804"><img src="https://upload.wikimedia.org/wikipedia/commons/6/65/HackerRank_logo.png" height="35" width="35" ></a>
 <!--
 **suleman804/suleman804** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
