@@ -8,6 +8,6 @@
 - 👯 I’m looking to collaborate on Machine Learning Project.
 - 🤔 I’m looking for help with Deployment of Machine Learning Models.
 - 💬 Ask me about Computer Vision, Tensorflow, Python, Data Structures, Algorithms.
-- 📫 How to reach me: <a href="salmanisuleman804@gmail.com" <text="salmanisuleman804@gmail.com"></a>
+- 📫 How to reach me: salmanisuleman804@gmail.com
 - 😄 Pronouns: Don't Have any but you can give me that.
 - ⚡ Fun fact: Being a programmer I can think and code without Coffee.
